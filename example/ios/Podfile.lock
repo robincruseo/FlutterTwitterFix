@@ -1,0 +1,37 @@
+PODS:
+  - Fabric (1.10.2)
+  - Flutter (1.0.0)
+  - flutter_twitter_login (0.0.1):
+    - Flutter
+    - TwitterKit
+  - TwitterCore (2.8.0):
+    - Fabric
+  - TwitterKit (2.8.1):
+    - TwitterCore (>= 2.8)
+
+DEPENDENCIES:
+  - Flutter (from `/Users/ghost/Developer/flutter/bin/cache/artifacts/engine/ios`)
+  - flutter_twitter_login (from `/Users/ghost/Documents/flutter_twitter_login-1.1.0/ios`)
+
+SPEC REPOS:
+  trunk:
+    - Fabric
+    - TwitterCore
+    - TwitterKit
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: "/Users/ghost/Developer/flutter/bin/cache/artifacts/engine/ios"
+  flutter_twitter_login:
+    :path: "/Users/ghost/Documents/flutter_twitter_login-1.1.0/ios"
+
+SPEC CHECKSUMS:
+  Fabric: 706c8b8098fff96c33c0db69cbf81f9c551d0d74
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  flutter_twitter_login: acf71258bca3b35b6ac06681f7a33b48f4acc0bd
+  TwitterCore: e959987be23c767004d29eb7fab8d85d8585a2e5
+  TwitterKit: 3b6044a7320340326a4098f3e37aa1dbaeb94942
+
+PODFILE CHECKSUM: c6c865faff84807a5d35de69eb2cdbdc36b99e15
+
+COCOAPODS: 1.8.4
